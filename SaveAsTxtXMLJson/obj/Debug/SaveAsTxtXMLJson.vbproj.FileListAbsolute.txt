@@ -1,0 +1,12 @@
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\bin\Debug\SaveAsTxtXMLJson.exe.config
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\bin\Debug\SaveAsTxtXMLJson.exe
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\bin\Debug\SaveAsTxtXMLJson.pdb
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\bin\Debug\SaveAsTxtXMLJson.xml
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.vbprojResolveAssemblyReference.cache
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.Form1.resources
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.Resources.resources
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.vbproj.GenerateResource.Cache
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.vbproj.CoreCompileInputs.cache
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.exe
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.xml
+c:\users\bea\source\repos\SaveAsTxtXMLJson\SaveAsTxtXMLJson\obj\Debug\SaveAsTxtXMLJson.pdb
